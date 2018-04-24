@@ -22,3 +22,16 @@ int main(){
     }
     return 0;
 }
+
+/**
+#include <stdio.h>
+
+int main(){
+    int n;
+    while(scanf("%d",&n)!=EOF)
+        printf("%o\n",n);
+    return 0;
+}
+
+cout<<oct<<n<<endl;
+**/

@@ -1,7 +1,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-//注意从2开始依次增大进行乘法，一个数的最大公约数必然小于n的平方
+//注意从2开始依次增大进行乘法
 //当最后n依旧大于1则说明是一个质数，加1即可
 int main(){
     long n;
